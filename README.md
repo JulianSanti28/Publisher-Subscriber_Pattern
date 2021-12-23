@@ -1,12 +1,12 @@
 # Publisher-Subscriber_Pattern
 Implementation of Publisher-Subscriber pattern in Java
-# Ingeniería de Software II 2021-2 Grupo A
+# Ingeniería de Software II 2021-2
 
-## Integrantes
+## Integrantes:
 * Julián S Martinez
 * Paula A Peña
 
-## Entregas
+## Entregas:
 - [x] 22/12/21: Publisher-Subscriber Pattern
 
 ### Descripción:
