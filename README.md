@@ -15,4 +15,4 @@ Implementation of Publisher-Subscriber pattern in Java
 
 ## El proyecto funciona a través de RabbitMQ aplicando el patrón de Publicador y Subscriptor. La forma en como se implementa es a través de el intercambio con ayuda de un exchange de tipo fanout. El mensaje se envía a los subscriptores disponibles pero cada uno de ellos realiza acciones diferentes con la información de llegada.
 
-- Thank you so much! :relaxed:
+[x] Thank you so much! :relaxed:
